@@ -1,2 +1,5 @@
 - 🌱 I’m currently learning ...
-- Im learning python..
+- Im learning Python.. (Update Finished learning Python)
+- Learning Django and C#
+- Learnt Git and SASS in This month (February 2025)
+- Thank You for reading this 
